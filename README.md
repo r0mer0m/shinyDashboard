@@ -25,7 +25,7 @@ To run the application you need to:
 
 ## Requirements
 
-``{r}
+```{r}
  [1] shinydashboard_0.7.0 scales_0.5.0        
  [3] gridExtra_2.3        forcats_0.3.0       
  [5] stringr_1.3.1        dplyr_0.7.6         

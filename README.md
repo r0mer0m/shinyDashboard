@@ -23,4 +23,14 @@ To run the application you need to:
     
 *Note: If you are not visualizing it in the browser you can do so by clicking in the top-left bottom in the emerging window.*
 
+## Requirements
 
+``{r}
+ [1] shinydashboard_0.7.0 scales_0.5.0        
+ [3] gridExtra_2.3        forcats_0.3.0       
+ [5] stringr_1.3.1        dplyr_0.7.6         
+ [7] purrr_0.2.5          readr_1.1.1         
+ [9] tidyr_0.8.1          tibble_1.4.2        
+[11] ggplot2_3.0.0        tidyverse_1.2.1     
+[13] magrittr_1.5         shiny_1.1.0     
+```{r} 

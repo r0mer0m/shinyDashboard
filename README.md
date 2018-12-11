@@ -33,4 +33,4 @@ To run the application you need to:
  [9] tidyr_0.8.1          tibble_1.4.2        
 [11] ggplot2_3.0.0        tidyverse_1.2.1     
 [13] magrittr_1.5         shiny_1.1.0     
-```{r} 
+```

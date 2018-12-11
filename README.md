@@ -13,6 +13,14 @@ Under `Variable Selection` the user can choose the feature they want to visualiz
 
 There are 4 kinds of plots and they scale from 1 to 3 dimensions depending on the number of variables that the user wants to visualize. 
 
+### Overview Tab
+
+![Visualization of the tab](https://github.com/r0mer0m/shinyDashboard/blob/master/example_images/Screenshot%202018-12-11%20at%2013.34.19.png)
+
+### N Dimensions Tab
+
+![Visualization of the tab](https://github.com/r0mer0m/shinyDashboard/blob/master/example_images/Screenshot%202018-12-11%20at%2013.35.33.png)
+
 ## Running the application
 
 To run the application you need to:
